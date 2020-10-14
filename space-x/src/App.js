@@ -14,9 +14,9 @@ function App() {
       <Header />
       <Main />
       <Features />
-      {/* <Calendar /> */}
-      {/* <Details /> */}
       <Footer />
+            {/* <Calendar /> */}
+      {/* <Details /> */}
     </>
     
 
